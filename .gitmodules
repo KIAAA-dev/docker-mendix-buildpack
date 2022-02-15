@@ -1,3 +1,6 @@
 [submodule "project"]
 	path = project
 	url = ../mendix-test-app.git
+[submodule "instructorUi"]
+	path = instructorUi
+	url = ../instructorUi.git
